@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CoreApiWithAdoConnection1.props" />
+</Project>

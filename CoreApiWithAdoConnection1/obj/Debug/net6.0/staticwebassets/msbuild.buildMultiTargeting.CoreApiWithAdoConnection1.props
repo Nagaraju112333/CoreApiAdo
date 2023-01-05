@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CoreApiWithAdoConnection1.props" />
+</Project>
